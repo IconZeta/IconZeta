@@ -8,5 +8,5 @@
   Interactive Graphics Degree at <a href='https://bellasartes.ugr.es](https://eaceuta.educacion.es/'>Art School of Ceuta</a>.<br/>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,tailwind,ps,ai,pr,ae,blender&perLine3)](https://skillicons.dev)
 
